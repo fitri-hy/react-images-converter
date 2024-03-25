@@ -1,0 +1,80 @@
+body {
+	background-color: #eeeeee;
+}
+.ic-card {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center;
+}
+
+.ic-title {
+  font-size: 24px;
+  margin-bottom: 35px;
+}
+
+.ic-coverts {
+  margin-bottom: 15px;
+}
+
+.ic-input-file {
+  padding: 8px 16px;
+  background-color: #f8f9fa;
+  color: white;
+  border: 1px solid #ced4da;
+  border-radius: 5px 0px 0px 5px;
+  cursor: pointer;
+  max-width: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.ic-input-select {
+  padding: 10px 16px;
+  background-color: #f8f9fa;
+  color: #333;
+  border: 1px solid #ced4da;
+  border-radius: 0px 5px 5px 0px;
+  cursor: pointer;
+}
+
+.ic-input-select {
+  margin-right: 10px;
+}
+
+.ic-input-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.ic-result {
+  margin-top: 25px;
+  border-style: dashed;
+  border-color: #e5354d;
+}
+
+.ic-result img {
+  max-width: 100%;
+  height: auto;
+}
+
+.ic-download {
+  margin-top: 25px;
+  padding: 8px 16px;
+  background-color: #28a745;
+  max-height: 400px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
